@@ -12,6 +12,8 @@ Minimal demo proving CRP end-to-end USDT transfer on **Sui** using local signing
 Tx: `Atr8ZtnVLK3AoEoASvcLB8TmYpZu5t7gzBmFdy8ckrHS`  
 Explorer: https://suiscan.xyz/mainnet/tx/Atr8ZtnVLK3AoEoASvcLB8TmYpZu5t7gzBmFdy8ckrHS
 
+> **Status:** Success (mainnet)
+
 ## Proof Screenshots
 
 ### Terminal run
