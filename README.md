@@ -9,8 +9,16 @@ Minimal demo proving CRP end-to-end USDT transfer on **Sui** using local signing
 4) Display tx hash + explorer link  
 
 ## Mainnet Proof (Sui)
-Tx: `3NR4hymfrypfVK2iF6oZziXjYsC3XvZ9BGgwtBnRKdMh`  
-Explorer: https://suiscan.xyz/mainnet/tx/3NR4hymfrypfVK2iF6oZziXjYsC3XvZ9BGgwtBnRKdMh
+Tx: `Atr8ZtnVLK3AoEoASvcLB8TmYpZu5t7gzBmFdy8ckrHS`  
+Explorer: https://suiscan.xyz/mainnet/tx/Atr8ZtnVLK3AoEoASvcLB8TmYpZu5t7gzBmFdy8ckrHS
+
+## Proof Screenshots
+
+### Terminal run
+![Terminal run](terminal-run.png)
+
+### SuiScan success
+![SuiScan success](suiscan-success.png)
 
 ## License
 MIT
