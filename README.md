@@ -1,10 +1,3 @@
-# Copy-paste README for `crp-sui-demo`
-
-Go here → edit `README.md` → replace everything with this:
-
-[https://github.com/salah353/crp-sui-demo](https://github.com/salah353/crp-sui-demo)
-
-```md
 # CRP Sui Demo
 
 Minimal demo proving CRP end-to-end USDT transfer on **Sui** using local signing.
